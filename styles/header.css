@@ -12,6 +12,7 @@ header .container{
 #profile{
     display: flex;
     gap: 32px;
+   
 
 }
 
@@ -19,10 +20,12 @@ header .container{
     max-width: 384px;
 
 }
+
 #profile h1{
     font: var(--text-lg);
     color: var(--text-color-primary);
     margin-bottom: 8px;
+
 }
 
 
